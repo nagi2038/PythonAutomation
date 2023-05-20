@@ -5,4 +5,4 @@ def testMethod1():
 def testMethod2():
   print("method 2 is tested")
 def testmethod3():
-  pass
+  print("method 3 is tested")
