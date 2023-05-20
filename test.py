@@ -1,6 +1,6 @@
 import PyTest
 
 def testMethod1():
-  pass
+  print("tested method 1")
 def testMethod2():
   pass
